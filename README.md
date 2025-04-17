@@ -67,20 +67,6 @@ HotelManagementSystem/
 > 📝 All SQL queries are handled using **PreparedStatements** for security.
 
 
-
-## 🚀 How to Run
-
-1. Import the project into **NetBeans IDE** or your favorite Java IDE.
-2. Set up **MariaDB** and import the `hotel_db.sql` file.
-3. Update `DBConnection.java` with your DB credentials.
-4. Add all required external JARs to your project libraries:
-   - `iText.jar`
-   - `core-3.4.1.jar` (for QR)
-5. Run `HotelApp.java` — and you're live!
-
-
-
-
 ## 🙌 Author
 
 **Your Name**  
