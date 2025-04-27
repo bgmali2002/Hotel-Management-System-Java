@@ -69,7 +69,7 @@ HotelManagementSystem/
 
 ## 🙌 Author
 
-**Your Name**  
+**BHERUNATH GEHLOT**  
 📧 Email: bhanwarm99@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/bherunath-gehlot)  
 💻 GitHub: [github.com/bgmali2002](https://github.com/bgmali2002)
