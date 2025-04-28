@@ -66,7 +66,6 @@ HotelManagementSystem/
 
 > 📝 All SQL queries are handled using **PreparedStatements** for security.
 
-
 ## 🙌 Author
 
 **BHERUNATH GEHLOT**  
